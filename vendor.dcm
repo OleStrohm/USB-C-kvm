@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HD3SS3212
+D Two-Channel Differential 2:1/1:2 USB3.1 Mux/Demux
+K usb c
+F https://www.ti.com/lit/ds/symlink/hd3ss3212.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1622297933131&ref_url=https%253A%252F%252Fwww.mouser.co.uk%252F
+$ENDCMP
+#
+#End Doc Library
