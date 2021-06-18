@@ -290,9 +290,9 @@ F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/da
 	1    6600 1750
 	1    0    0    -1  
 $EndComp
-Text Label 7150 2050 0    50   ~ 0
-SEL
 Text Label 7150 2150 0    50   ~ 0
+SEL
+Text Label 7150 2050 0    50   ~ 0
 OE
 Wire Wire Line
 	7100 2050 7150 2050
@@ -807,4 +807,26 @@ Text Label 5700 2050 0    50   ~ 0
 CRY0
 Text Label 5700 2150 0    50   ~ 0
 CRY1
+$Comp
+L vendor:UCS3205 U?
+U 1 1 60CE04F3
+P 5000 5250
+F 0 "U?" H 5000 5875 50  0000 C CNN
+F 1 "UCS3205" H 5000 5784 50  0000 C CNN
+F 2 "" H 5350 5800 50  0001 C CNN
+F 3 "https://www.mouser.co.uk/datasheet/2/268/UCS3205_Data_Sheet_DS20006433A-1915299.pdf" H 5400 5800 50  0001 C CNN
+	1    5000 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60CF5D7A
+P 5150 5650
+F 0 "#PWR?" H 5150 5400 50  0001 C CNN
+F 1 "GND" H 5155 5477 50  0000 C CNN
+F 2 "" H 5150 5650 50  0001 C CNN
+F 3 "" H 5150 5650 50  0001 C CNN
+	1    5150 5650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
