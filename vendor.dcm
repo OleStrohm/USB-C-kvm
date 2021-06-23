@@ -6,6 +6,11 @@ K usb c
 F https://www.ti.com/lit/ds/symlink/hd3ss3212.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1622297933131&ref_url=https%253A%252F%252Fwww.mouser.co.uk%252F
 $ENDCMP
 #
+$CMP TS3A5223RSW
+D The TS3A5223is a high-speed 2-channel analog switch with break-before-make and bi-directional signal switching capability.
+F https://www.ti.com/lit/ds/symlink/ts3a5223.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1624480678963&ref_url=https%253A%252F%252Fwww.mouser.co.uk%252F
+$ENDCMP
+#
 $CMP UCS3205
 D 5A, 22V Bidirectional Load Switch with Fast Role Swap
 F https://www.mouser.co.uk/datasheet/2/268/UCS3205_Data_Sheet_DS20006433A-1915299.pdf
