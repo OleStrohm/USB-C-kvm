@@ -1568,10 +1568,6 @@ Wire Notes Line
 	2200 500  2200 7800
 NoConn ~ 1600 5500
 NoConn ~ 1600 5600
-Wire Wire Line
-	1600 5100 1600 5200
-Wire Wire Line
-	1600 5000 1600 4900
 Text Notes 600  4000 0    79   ~ 0
 Power Input
 $Comp
@@ -1636,4 +1632,8 @@ Text Notes 8900 1650 0    50   ~ 0
 JTAG header
 Wire Notes Line
 	9600 3500 11200 3500
+NoConn ~ 1600 4900
+NoConn ~ 1600 5000
+NoConn ~ 1600 5100
+NoConn ~ 1600 5200
 $EndSCHEMATC
